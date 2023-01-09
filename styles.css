@@ -1,14 +1,17 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-</style>
-
 body {
   font-family: 'Courier Prime', monospace;
-  margin: 1;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 300px;
 }
 
 p {
   font-family: 'Courier Prime', monospace;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 h1 {
