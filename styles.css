@@ -39,3 +39,9 @@ h3 {
   font-family: 'Courier Prime', monospace;
   text-align: right;
 }
+
+div {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
