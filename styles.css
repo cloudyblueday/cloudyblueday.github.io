@@ -19,6 +19,14 @@ p.a {
   margin-left: 80px;
 }
 
+p.b {
+  font-family: 'Courier Prime', monospace;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
 h1 {
   font-family: 'Courier Prime', monospace;
 }
