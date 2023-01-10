@@ -9,6 +9,10 @@ body {
 
 p {
   font-family: 'Courier Prime', monospace;
+}
+
+p.ex1 {
+  font-family: 'Courier Prime', monospace;
   margin-top: 50px;
   margin-bottom: 100px;
   margin-right: 150px;
